@@ -1,2 +1,11 @@
+.DS_Store
+
+client/talktogod_client_v001/node_modules
+client/talktogod_client_v001/out
+client/talktogod_client_v001/.DS_Store
+client/talktogod_client_v001/package-lock.json
+
+client/talktogod_client_v002/node_modules
+client/talktogod_client_v002
 server/talktogod_v001
 server/talktogod_v002
