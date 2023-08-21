@@ -1,4 +1,4 @@
-<img align="right" width="120" src="./docs/static/logo.png" style="border-radius: 50%;">
+<img align="right" width="120" src="./docs/static/logo_c.png">
 
 # TalkToGod Chat
 
@@ -30,8 +30,15 @@
 
 ## Running
 
-![首页](./docs/static/samples/index_v001.png)
-![聊天](./docs/static/samples/chatting_v001.png)
+<div style="display: flex; justify-content: center;">
+  <img src="./docs/static/samples/index_v001.png" alt="首页" width="450" height="270">
+</div>
+<h6 style="text-align:center">[pic 1] Index Page</h6>
+
+<div style="display: flex; justify-content: center;">
+  <img src="./docs/static/samples/index_v001.png" alt="聊天" width="450" height="270">
+</div>
+<h6 style="text-align:center">[pic2] Chatting Page</h6>
 
 ## Change Log
 
@@ -47,8 +54,7 @@
 
 This project exists thanks to all the people who contribute.
 
-<img src="https://avatars.githubusercontent.com/u/118234494?s=64&v=4" style="border-radius: 50%;">
-<img src="https://avatars.githubusercontent.com/u/62085336?s=64&v=4" style="border-radius: 50%;">
+<img src="./docs/static/samples/contributors.png" height=50>
 
 ## License
 

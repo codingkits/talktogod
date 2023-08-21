@@ -1,6 +1,8 @@
-<img align="right" width="120" src="./docs/static/logo.png" style="border-radius: 50%;">
+<img align="right" width="120" src="./docs/static/logo_c.png">
 
 # TalkToGod 聊天室软件
+
+[English](README.md)
 
 <hr/>
 
@@ -27,8 +29,15 @@
 
 ## 启动
 
-![首页](./docs/static/samples/index_v001.png)
-![聊天](./docs/static/samples/chatting_v001.png)
+<div style="display: flex; justify-content: center;">
+  <img src="./docs/static/samples/index_v001.png" alt="首页" width="450" height="270">
+</div>
+<h6 style="text-align:center">[图 1] 首页</h6>
+
+<div style="display: flex; justify-content: center;">
+  <img src="./docs/static/samples/index_v001.png" alt="聊天" width="450" height="270">
+</div>
+<h6 style="text-align:center">[图 2] 聊天</h6>
 
 ## 里程碑
 
@@ -44,8 +53,7 @@
 
 在这里感谢所有为此项目做出贡献的人.
 
-<img src="https://avatars.githubusercontent.com/u/118234494?s=64&v=4" style="border-radius: 50%;">
-<img src="https://avatars.githubusercontent.com/u/62085336?s=64&v=4" style="border-radius: 50%;">
+<img src="./docs/static/samples/contributors.png" height=50>
 
 ## License
 
