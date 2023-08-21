@@ -1,12 +1,10 @@
 <img align="right" width="120" src="./docs/static/logo.png" style="border-radius: 50%;">
 
-# TalkToGod Chat
-
-[简体中文](README.zh-CN.md)
+# TalkToGod 聊天室软件
 
 <hr/>
 
-🚀🚀🚀 A clean, no-cache and stable Chatting App , compatible with Linux, Windows, MacOS. What's more, It can help you chat with others without any concerns about information leakage.
+🚀🚀🚀 一款干净无存储的跨平台聊天室软件，支持 Windows、Mac、Linux 平台
 
 [![MIT](https://img.shields.io/badge/license-MIT-000000.svg)](LICENSE)
 [![Download](https://img.shields.io/badge/Download-v0.0.1-blue)](https://github.com/codingkits/talktogod/releases)
@@ -14,38 +12,37 @@
 
 ## Windows
 
-- Download latest [exe](https://github.com/codingkits/talktogod/releases) package from [Github](https://github.com/codingkits/talktogod/releases) , double click to install.
-
+- 可以在 [Github](https://github.com/codingkits/talktogod/releases) 下载`exe`安装包
   <br/>[![Windows](https://img.shields.io/badge/Download-talktogod.exe-blue)](https://github.com/codingkits/talktogod/releases)
 
 ## Linux
 
-- Download latest [AppImage](https://github.com/codingkits/talktogod/releases) package from [Github](https://github.com/codingkits/talktogod/releases) , chmod +x, double click to run.
+- 可以在 [Github](https://github.com/codingkits/talktogod/releases) 下载`AppImage`包，`chmod +x`, 双击运行  
   <br/>[![Linux](https://img.shields.io/badge/Download-talktogod.AppImage-blue)](https://github.com/codingkits/talktogod/releases)
 
 ## Mac
 
-- Download latest [Dmg](https://github.com/codingkits/talktogod/releases) package from [Github](https://github.com/codingkits/talktogod/releases) , chmod +x, double click to run.
+- 可以在 [Github](https://github.com/codingkits/talktogod/releases) 下载`dmg`安装包
   <br/>[![MacOS](https://img.shields.io/badge/Download-talktogod.dmg-blue)](https://github.com/codingkits/talktogod/releases)
 
-## Running
+## 启动
 
 ![首页](./docs/static/samples/index_v001.png)
 ![聊天](./docs/static/samples/chatting_v001.png)
 
-## Change Log
+## 里程碑
 
-- 2023-08-18: Chatting Room v0.0.1
-- 2023-08-11: Design
-- 2023-08-10: Project Start
+- 2023-08-18: 匿名聊天实现
+- 2023-08-11: 构思设计
+- 2023-08-10: 项目孵化
 
-## Sponsor
+## 赞助
 
-- Give me a star ⭐
+- 给我点个 Star⭐
 
-## Contributors
+## 贡献者
 
-This project exists thanks to all the people who contribute.
+在这里感谢所有为此项目做出贡献的人.
 
 <img src="https://avatars.githubusercontent.com/u/118234494?s=64&v=4" style="border-radius: 50%;">
 <img src="https://avatars.githubusercontent.com/u/62085336?s=64&v=4" style="border-radius: 50%;">
@@ -56,4 +53,4 @@ This project exists thanks to all the people who contribute.
 
 ## Support
 
-[nobody](nobody)
+[虚位以待](nobody)
